@@ -19,7 +19,7 @@ npm install -g @xiechen1201/create-notemd
 
 1. 在终端中运行命令：
 ```bash
-create-md
+create-notemd
 ```
 
 2. 根据提示输入目录名称和Markdown文件名称
