@@ -35,7 +35,7 @@ create-md
 ## 示例
 
 ```bash
-$ create-md
+$ create-notemd
 请输入目录名称: javascript-learning
 请输入 MD 文件的名称: day1-basics
 
