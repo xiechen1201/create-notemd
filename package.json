@@ -4,15 +4,28 @@
   "description": "一个用于创建目录和 MD 文件的 CLI 工具",
   "main": "bin/index.js",
   "bin": {
-    "create-md": "./bin/index.js"
+    "create-notemd": "bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["cli", "directory", "learning", "node"],
+  "keywords": [
+    "cli",
+    "directory",
+    "learning",
+    "node"
+  ],
   "author": "",
   "license": "MIT",
   "dependencies": {
     "readline": "^1.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiechen1201/create-notemd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xiechen1201/create-notemd/issues"
+  },
+  "homepage": "https://github.com/xiechen1201/create-notemd#readme"
 }
