@@ -1,6 +1,6 @@
 {
   "name": "@xiechen1201/create-notemd",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "一个用于创建目录和 MD 文件的 CLI 工具",
   "main": "bin/index.js",
   "bin": {
